@@ -1,0 +1,1 @@
+Matricula:674270  Tempo de Execucao(ms): 20073000  Numero de comparacoes:0
